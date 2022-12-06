@@ -1,0 +1,18 @@
+h1 {text-align: center;
+    color: red;
+    margin-bottom: 15px;
+    background-color: grey;}
+
+h2 {color: deeppink;}
+
+h3{color: orange;}
+
+img {box-shadow: 10px 10px 5px black;}
+
+section {background-color: black;
+    color: grey;}
+
+p {font-size: 15px;}
+
+ul {border-style: solid;
+    color: grey;}
